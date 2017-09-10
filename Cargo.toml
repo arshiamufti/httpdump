@@ -1,0 +1,7 @@
+[package]
+name = "httpdump"
+version = "0.1.0"
+authors = ["arshiamufti <a2mufti@uwaterloo.ca>"]
+
+[dependencies]
+pcap = "0.7.0"
