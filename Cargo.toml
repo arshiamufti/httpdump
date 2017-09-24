@@ -5,3 +5,4 @@ authors = ["arshiamufti <a2mufti@uwaterloo.ca>"]
 
 [dependencies]
 pcap = "0.7.0"
+peel-ip = "0.2.0"
